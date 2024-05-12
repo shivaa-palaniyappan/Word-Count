@@ -18,10 +18,11 @@ Input the values
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
 # program to find the number of words in a text file
 # Developed by : SHIVAA PALANIYAPPAN V
 # Register number : 212223110050
-```
+
 num=0
 with open("story.txt","r") as f1:
     for i in f1:
